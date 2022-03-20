@@ -1,5 +1,5 @@
 #criando ambiente virtual:
-#"python -m vevn ambinete-virtual"
+#"python -m venv ambinete-virtual"
 
 #instalando bibliotecas:
 #digite no terminal após criar e se certificar que está dentro do ambiente virtual:
